@@ -1,0 +1,19 @@
+{
+  "name": "alna-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack --config webpack.common.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Lazarski",
+  "devDependencies": {
+    "clean-webpack-plugin": "^3.0.0",
+    "html-webpack-plugin": "^4.4.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
