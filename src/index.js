@@ -1,3 +1,2 @@
-// lodash = require('lodash');
-
 console.log('hallo Alna!');
+new Promise()
