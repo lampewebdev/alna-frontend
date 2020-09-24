@@ -1,2 +1,2 @@
 console.log('hallo Alna!');
-new Promise()
+console.log(1+1);
